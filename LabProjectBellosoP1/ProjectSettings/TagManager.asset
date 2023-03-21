@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Car 1
+  - Car 2
+  - Car 3
+>>>>>>> ac5c0eb6eb10d60bbbd92c3e5745de187c802919
   layers:
   - Default
   - TransparentFX

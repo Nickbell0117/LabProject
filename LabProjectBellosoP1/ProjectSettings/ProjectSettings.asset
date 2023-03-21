@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
+<<<<<<< HEAD
   productGUID: 1a34abc4c25adc24690e9564f5772310
+=======
+  productGUID: cec260f9fe942f449a6e0269473da586
+>>>>>>> ac5c0eb6eb10d60bbbd92c3e5745de187c802919
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -47,7 +51,11 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
+<<<<<<< HEAD
   m_ActiveColorSpace: 0
+=======
+  m_ActiveColorSpace: 1
+>>>>>>> ac5c0eb6eb10d60bbbd92c3e5745de187c802919
   m_MTRendering: 1
   mipStripping: 0
   numberOfMipsStripped: 0
@@ -235,7 +243,11 @@ PlayerSettings:
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
   clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
+<<<<<<< HEAD
   templatePackageId: com.unity.template.3d@8.1.0
+=======
+  templatePackageId: com.unity.template.3d@8.1.3
+>>>>>>> ac5c0eb6eb10d60bbbd92c3e5745de187c802919
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -269,6 +281,7 @@ PlayerSettings:
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
+<<<<<<< HEAD
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: tvOS
     m_Icons:
@@ -496,6 +509,9 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+=======
+  m_BuildTargetPlatformIcons: []
+>>>>>>> ac5c0eb6eb10d60bbbd92c3e5745de187c802919
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
